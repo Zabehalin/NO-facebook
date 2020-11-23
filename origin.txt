@@ -1,0 +1,984 @@
+Uri: http://34.66.21.98/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/index4964.html?_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\index4964.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/data/manifest/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\data\manifest\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/osd.xml
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\osd.xml
+Content Type: application/xml
+
+Uri: http://34.66.21.98/recover/initiate/index90fe.html?ars=facebook_login&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzI5LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\recover\initiate\index90fe.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/r.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\r.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/lite/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\lite\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/people/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\people\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/pages/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\pages\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/pages/category/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\pages\category\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/places/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\places\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/games/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\games\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/places/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\places\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/marketplace/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\marketplace\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/groups/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\groups\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/jobs/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\jobs\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/local/lists/245019872666104/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\local\lists\245019872666104\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/fundraisers/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\fundraisers\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/biz/directory/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\biz\directory\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/indexb3e6.html?entry_point=c2l0ZQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\indexb3e6.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/index30c2.html?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index30c2.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/privacy/explanation.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\privacy\explanation.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/cookies/index.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\cookies\index.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/568137493302217.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\568137493302217.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies30c2.html?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies30c2.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/index30c2.html?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index30c2.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/adpreferences/ad_settings/index9f21.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\adpreferences\ad_settings\index9f21.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/allactivity99e1.html?privacy_source=activity_log_top_menu
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\allactivity99e1.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/recover/initiate/indexe95c.html?ars=facebook_login&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzMxLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\recover\initiate\indexe95c.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/identify/indexa003.html?ctx=recover%26ars=facebook_login
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\identify\indexa003.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/r4964.html?_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\r4964.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/identify/index8638.html?lwv=110&ars=royal_blue_bar
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\identify\index8638.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/legal/terms/update.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\legal\terms\update.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/update.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\update.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/recover/initiate/index9acb.html?ars=facebook_login
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\recover\initiate\index9acb.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/cookies/index.html?ref_type=sitefooter
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\cookies\index-1.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/images/assets_DO_NOT_HARDCODE/voter_information_center/Privacy-List-Android_light-4x.png
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\images\assets_DO_NOT_HARDCODE\voter_information_center\Privacy-List-Android_light-4x.png
+Content Type: image/png
+
+Uri: http://34.66.21.98/images/assets_DO_NOT_HARDCODE/voter_information_center/BallotCounting-List-Android_light-4x.png
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\images\assets_DO_NOT_HARDCODE\voter_information_center\BallotCounting-List-Android_light-4x.png
+Content Type: image/png
+
+Uri: http://34.66.21.98/images/assets_DO_NOT_HARDCODE/voter_information_center/StrictRules-List-Android_light-4x.png
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\images\assets_DO_NOT_HARDCODE\voter_information_center\StrictRules-List-Android_light-4x.png
+Content Type: image/png
+
+Uri: http://34.66.21.98/data/manifest/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\data\manifest\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzQ1LCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/lite/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\lite\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/people/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\people\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/pages/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\pages\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/pages/category/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\pages\category\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/places/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\places\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/games/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\games\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/places/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\places\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/marketplace/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\marketplace\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/directory/groups/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\directory\groups\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/jobs/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\jobs\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/local/lists/245019872666104/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\local\lists\245019872666104\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/fundraisers/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\fundraisers\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/biz/directory/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\biz\directory\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/cookies/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\cookies\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/index9e00.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index9e00.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/index893e.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index893e.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/indexa86e.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\indexa86e.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/icons/blank.gif
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\icons\blank.gif
+Content Type: image/gif
+
+Uri: http://34.66.21.98/icons/back.gif
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\icons\back.gif
+Content Type: image/gif
+
+Uri: http://34.66.21.98/icons/text.gif
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\icons\text.gif
+Content Type: image/gif
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/awstrack.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\awstrack.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/indexb3e6.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\indexb3e6-1.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/k1yE.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\k1yE.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/kollosche.com.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\kollosche.com.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/news.com.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\news.com.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/theaustralian.com.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\theaustralian.com.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/likes.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\likes.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/likes76a2.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\likes76a2.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/icons/folder.gif
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\icons\folder.gif
+Content Type: image/gif
+
+Uri: http://34.66.21.98/careers/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/index30c2.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index30c2-1.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/jobs.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\jobs.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/life.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\life.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/locations.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\locations.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?ref=pf
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/188996231291583.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\188996231291583.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/299618223782909.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\299618223782909.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/901370616673951.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\901370616673951.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/1127216777360764.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\1127216777360764.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/1251484118194936.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\1251484118194936.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/1348270451957092.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\1348270451957092.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/1409509059114623.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\1409509059114623.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/1872359709660621.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\1872359709660621.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/37795551887512915c24.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\37795551887512915c24.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/index01dc.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index01dc.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/index30c2.html
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index30c2-1.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzM0LCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D&_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzM2LCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D&_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-10.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTM5NzQwLCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D&_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-11.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/votinginformationcenter/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\votinginformationcenter\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/?ref=page_internal
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?ref=page_internal
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?next=https:%2F%2Fwww.facebook.com%2Ffacebook%2F&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDA0LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=2&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDA0LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-12.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=1&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDA0LCJjYWxsc2l0ZV9pZCI6NjQ4NzMxOTgyNDk1ODQyfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-13.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?next=https:%2F%2Fwww.facebook.com%2Ffacebook%2F&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMzk1LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=2&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMzk1LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-14.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=1&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMzk1LCJjYWxsc2l0ZV9pZCI6NjQ4NzMxOTgyNDk1ODQyfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-15.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?next=https:%2F%2Fwww.facebook.com%2Ffacebook%2F&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDI0LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=2&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDI0LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-16.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=1&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDI0LCJjYWxsc2l0ZV9pZCI6NjQ4NzMxOTgyNDk1ODQyfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-17.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=642322529774675
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=2768087073402728
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=280184493205209
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=665857550971030
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=3649993115065245
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=722042645324286
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=618981452107785
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=1462582997464680
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=376764466795075
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/watch/?ref=external&v=1123557764712898
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\watch\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/218688903026043.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\218688903026043.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/218696629691937.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\218696629691937.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/diversity.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\diversity.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/students.html.tmp
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\students.html.html
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/policies/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\policies\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?helpref=hc_global_nav
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc3LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc3LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-18.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMzg5LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMzg5LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-19.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc5LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc5LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-20.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjcxLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjcxLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-21.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjY4LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjY4LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-22.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc1LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjc1LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-23.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjkwLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-10.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjkwLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-24.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjczLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-11.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjczLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-25.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjY2LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-12.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMjY2LCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-26.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/help/?ref=404&_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\help\index-10.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMDcwLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-13.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwMDcwLCJjYWxsc2l0ZV9pZCI6Mzg4NTUyODA0ODE2NjAyMn0%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-27.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?_fb_noscript=1
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-9.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/facebook/posts/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\facebook\posts\index-10.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?next=https:%2F%2Fwww.facebook.com%2Ffacebook%2F&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE4LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-14.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=2&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE4LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-28.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=1&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE4LCJjYWxsc2l0ZV9pZCI6NjQ4NzMxOTgyNDk1ODQyfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-29.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/login/?next=https:%2F%2Fwww.facebook.com%2Ffacebook%2F&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE1LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\login\index-15.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=2&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE1LCJjYWxsc2l0ZV9pZCI6Mzc4Mzc1MTU5OTY2NjIxfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-30.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/reg/?rs=1&privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2MTQwNDE1LCJjYWxsc2l0ZV9pZCI6NjQ4NzMxOTgyNDk1ODQyfQ%3D%3D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\reg\index-31.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/facebook-life/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\facebook-life\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/careers/students-and-grads/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\careers\students-and-grads\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/privacy/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\privacy\index-8.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=N;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-1.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=M;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-2.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=S;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-3.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=D;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-4.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=N;O=A
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-5.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=M;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-6.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=S;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-7.htm
+Content Type: text/html
+
+Uri: http://34.66.21.98/about/?C=D;O=D
+File Name: C:\Users\Kosmos\Desktop\XXX\34.66.21.98\about\index-8.htm
+Content Type: text/html
+
